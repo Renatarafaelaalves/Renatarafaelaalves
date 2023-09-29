@@ -12,4 +12,6 @@ Meu nome é Renata, e sou apaixonada pelo a tecnologia. Acredito profundamente n
 ## Hards Skills
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renatarafaelaalves)](https://github.com/Renatarafaelaalves/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatarafaelaalves)](https://github.com/Renatarafaelaalves/)
