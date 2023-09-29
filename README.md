@@ -6,7 +6,7 @@ Meu nome é Renata, e sou apaixonada pelo a tecnologia. Acredito profundamente n
 
 ### Para me encontrar:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatarafaelaalves)
-[![linkidein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/renataalvesdeoliveira)
+[![linkidein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renataalvesdeoliveira)
 
 
 ## Hards Skills
